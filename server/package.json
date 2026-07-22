@@ -1,10 +1,13 @@
 {
+  "name": "my-mern-stack-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "-": "^0.0.1",
     "@stripe/stripe-js": "^9.4.0",
     "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
-    "d": "^1.0.2",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.3",
