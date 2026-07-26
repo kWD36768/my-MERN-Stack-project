@@ -151,6 +151,7 @@ Swal.fire({
             id="size1"
             value="0"
             className="my-[10px] mx-[20px] accent-[#5351c9]"
+                checked
           />
           <span>Display</span>
           <input
@@ -159,7 +160,7 @@ Swal.fire({
             id="size2"
             value="1"
             className="my-[10px] mx-[20px] accent-[#5351c9]"
-            checked
+        
           />
           <span>Hide</span>
         </div>

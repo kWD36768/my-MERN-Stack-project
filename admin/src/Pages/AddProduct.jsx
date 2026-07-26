@@ -379,19 +379,24 @@ const handleinsertproduct = (e) => {
                 Color
               </label>
            <ul >
-             {
-              colors.map((color , index) =>(
-                <li key = {index}>
- 
-                  <input  type="checkbox" onClick = {handlecheckcolor} value = {color._id} />
-                  <span name = "colors" className="ml-2">{color.name}</span>
-                  <span name = "colors" className= " w-2 h-12 ml-5 p-2" style = {{backgroundColor : color.code}}></span>
+         {
+  colors.map((color, index) => (
+    <li key={index} className="flex items-center gap-2">
+      <input
+        type="checkbox"
+        onClick={handlecheckcolor}
+        value={color._id}
+      />
 
-                </li>
-           
+      <span>{color.name}</span>
 
-              ))
-            }
+      <span
+        className="w-4 h-4 rounded-sm border border-gray-300"
+        style={{ backgroundColor: color.code }}
+      ></span>
+    </li>
+  ))
+}
            </ul>
             </div>
           </div>

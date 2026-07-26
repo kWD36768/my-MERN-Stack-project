@@ -9,6 +9,8 @@ const insertproduct = async (req, res) => {
 console.log("PRODUCT IMG:", req.files.product_img[0].filename);
 console.log("PRODUCT GALLERY:", req.files.product_gallery[0].filename);
 console.log("IMAGE ANIMATION:", req.files.image_animation[0].filename);
+console.log("PRODUCT IMG:", req.files.product_img[0].filename);
+console.log(product);
 console.log(JSON.parse(req.body.sizes));
 
     const product = new Product({

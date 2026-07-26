@@ -27,7 +27,11 @@ console.log(response)
 
 const login = async (req, res) => {
   try {
+      console.log("BODY:", req.body); 
      const admindata  = await admin.findOne({email : req.body.email})
+
+        console.log("DB:", admindata);   
+
 
      if(!admindata) return res.status(401).json({message  : "please provide a valid email"})
       

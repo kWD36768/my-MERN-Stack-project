@@ -15,6 +15,7 @@ const ViewCategory = () => {
 
       .then((response) => {
         console.log(response);
+        console.log( "data ",response.data);
         setcategories(response.data.data);
       })
 

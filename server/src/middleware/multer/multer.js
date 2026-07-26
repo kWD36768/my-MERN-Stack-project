@@ -9,11 +9,11 @@ const multerstorage = (foldername) =>
       const fieldname = file.fieldname
        console.log("ABS PATH:", file);
       if(foldername === 'product'){
-         cb(null, `src/uploads/${foldername}/${fieldname}`);
+        cb(null, `uploads/${foldername}/${fieldname}`);
       }
 
       else{
-        cb(null , `src/uploads/${foldername}`)
+       cb(null, `uploads/${foldername}`);
       }
 
 

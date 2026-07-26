@@ -11,17 +11,22 @@ app.use(cors());
 
 app.use(
   '/frank-and-oak-files/product_img',
-  express.static('src/uploads/product/product_img')
+  express.static('uploads/product/product_img')
 );
 
 app.use(
   '/frank-and-oak-files/image_animation',
-  express.static('src/uploads/product/image_animation')
+  express.static('uploads/product/image_animation')
 );
 
 app.use(
   '/frank-and-oak-files/product_gallery',
-  express.static('src/uploads/product/product_gallery')
+  express.static('uploads/product/product_gallery')
+);
+
+app.use(
+  "/frank-and-oak/productcategory",
+  express.static("uploads/productcategory")
 );
 
 

@@ -44,13 +44,9 @@ export default function Home() {
      seturlString(products.filepath)
   }, [products])
 
-  //   useEffect(() => {
+  console.log("productlist =", productlist);
 
-  //     if(productlist){
-  //          setproductlist(products.data);
-  //   console.log('productlist', productlist)} 
-  //   seturlString(products.filepath)
-  //  console.log('urlString', urlString)}, [products])
+
 
   const handleNext = () => {
     const box = window.document.querySelector("#box");
@@ -393,13 +389,20 @@ export default function Home() {
       </div>
       <div className="py-10 px-8 grid grid-cols-4 gap-4">
   {productlist?.map((product) => (
+    
     <div
       key={product._id}
       className="border rounded-md p-4"
     >
    
        <div className="p-4">
-                <img className="w-full" src={urlString +product.thumbnail} /> 
+  <div className="p-4">
+  <img
+  src={`${urlString}product_img/${product.product_img}`}
+  alt={product.name}
+  className="w-20 h-20 object-cover"
+/>
+</div>
 
               </div>
                <form method = "Post">
