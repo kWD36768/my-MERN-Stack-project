@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Frank%20&%20Oak%20Frontend&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 
 # 🛍️ Frank & Oak Frontend
 
@@ -280,15 +279,7 @@ npm install
 
 ---
 
-# 🌐 Environment Variables
 
-Create a **.env.local** file inside the frontend folder.
-
-```env
-NEXT_PUBLIC_API_URL=http://localhost:5000
-
-NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=YOUR_STRIPE_KEY
-```
 
 ---
 
@@ -329,16 +320,6 @@ http://localhost:5000
 ```
 
 ---
-
-# 📱 Responsive Support
-
-✅ Desktop
-
-✅ Laptop
-
-✅ Tablet
-
-✅ Mobile
 
 ---
 

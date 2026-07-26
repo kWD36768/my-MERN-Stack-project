@@ -39,7 +39,6 @@ A modern **Full Stack MERN E-Commerce Application** inspired by **Frank & Oak**,
 - ▶️ Running the Project
 - 🚀 Future Improvements
 - 👨‍💻 Author
-- 📄 License
 
 ---
 
@@ -167,13 +166,7 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
   <img src="./screenshots/home.png" alt="Home Page" width="100%">
 </p>
 
----
-
-## 📦 Product Details
-
-<p align="center">
-  <img src="./screenshots/product-details.png" alt="Product Details" width="100%">
-</p>
+\
 
 ---
 
@@ -185,11 +178,7 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
 
 ---
 
-## ❤️ Wishlist
 
-<p align="center">
-  <img src="./screenshots/wishlist.png" alt="Wishlist" width="100%">
-</p>
 
 ---
 
@@ -292,7 +281,7 @@ Frank-And-Oak/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/kWD36768/my-MERN-Stack-project.git
 ```
 
 ---
@@ -530,15 +519,15 @@ It helps others discover the project and motivates future improvements.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/muhammad-bilal-a00aa7336">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_PROFILE">
+<a href="https://github.com/kWD36768">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:bilalkhan17216@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

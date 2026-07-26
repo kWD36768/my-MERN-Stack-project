@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Frank%20&%20Oak%20Admin%20Panel&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
-
 # 👨‍💼 Frank & Oak Admin Panel
 
 ### React.js Based Admin Dashboard for MERN E-Commerce
