@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Frank%20&%20Oak%20Backend&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
+
 
 # ⚙️ Frank & Oak Backend
 
