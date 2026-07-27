@@ -173,7 +173,7 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
 ## 🛒 Shopping Cart
 
 <p align="center">
-  <img src="./screenshots/cart.png" alt="Shopping Cart" width="100%">
+  <img src="./screenshots/sc.jpeg" alt="Shopping Cart" width="100%">
 </p>
 
 ---
@@ -185,7 +185,7 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
 ## 💳 Checkout
 
 <p align="center">
-  <img src="./screenshots/checkout.png" alt="Checkout" width="100%">
+  <img src="./screenshots/stripe.jpeg" alt="Checkout" width="100%">
 </p>
 
 ---
@@ -193,7 +193,7 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
 ## 🔐 Login Page
 
 <p align="center">
-  <img src="./screenshots/login.png" alt="Login" width="100%">
+  <img src="./screenshots/l.jpeg" alt="Login" width="100%">
 </p>
 
 ---
@@ -201,7 +201,7 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
 ## 👤 Register Page
 
 <p align="center">
-  <img src="./screenshots/register.png" alt="Register" width="100%">
+  <img src="./screenshots/r.jpeg" alt="Register" width="100%">
 </p>
 
 ---
@@ -209,7 +209,7 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
 ## 📧 OTP Verification
 
 <p align="center">
-  <img src="./screenshots/otp.png" alt="OTP Verification" width="100%">
+  <img src="./screenshots/otp.jpeg" alt="OTP Verification" width="100%">
 </p>
 
 ---
@@ -217,16 +217,11 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
 ## 👨‍💼 Admin Dashboard
 
 <p align="center">
-  <img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="100%">
+  <img src="./screenshots/ad.jpeg" alt="Admin Dashboard" width="100%">
 </p>
 
 ---
 
-## 📦 Product Management
-
-<p align="center">
-  <img src="./screenshots/product-management.png" alt="Product Management" width="100%">
-</p>
 
 ---
 
@@ -430,10 +425,7 @@ The application can be deployed using the following platforms:
 - 👤 User Authentication APIs
 - 📦 Product CRUD APIs
 - 🛒 Cart Management APIs
-- ❤️ Wishlist APIs
 - 💳 Stripe Payment APIs
-- 📋 Order Management APIs
-- 👥 User Management APIs
 - 👨‍💼 Admin APIs
 
 ---
@@ -457,10 +449,6 @@ The application can be deployed using the following platforms:
 ✔️ Stripe Payment Integration
 
 ✔️ Complete CRUD Operations
-
-✔️ RESTful API Architecture
-
-✔️ Responsive UI Design
 
 ✔️ Secure Backend
 
