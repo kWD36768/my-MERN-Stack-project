@@ -163,7 +163,7 @@ The Admin Dashboard enables administrators to perform complete CRUD operations o
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="./screenshots/home.png" alt="Home Page" width="100%">
+  <img src="./screenshots/home.jpeg" alt="Home Page" width="100%">
 </p>
 
 \
